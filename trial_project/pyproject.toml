@@ -24,3 +24,4 @@ line-length = 120
 
 [project.scripts]
 train = "trial_project.train:main"
+evaluate = "my_project.evaluate:main"
